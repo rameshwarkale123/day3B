@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\bin\Debug\netcoreapp3.1\para_constractor.exe
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\bin\Debug\netcoreapp3.1\para_constractor.deps.json
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\bin\Debug\netcoreapp3.1\para_constractor.runtimeconfig.json
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\bin\Debug\netcoreapp3.1\para_constractor.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\bin\Debug\netcoreapp3.1\para_constractor.dll
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\bin\Debug\netcoreapp3.1\para_constractor.pdb
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\obj\Debug\netcoreapp3.1\para_constractor.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\obj\Debug\netcoreapp3.1\para_constractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\obj\Debug\netcoreapp3.1\para_constractor.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\obj\Debug\netcoreapp3.1\para_constractor.AssemblyInfo.cs
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\obj\Debug\netcoreapp3.1\para_constractor.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\obj\Debug\netcoreapp3.1\para_constractor.dll
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\obj\Debug\netcoreapp3.1\para_constractor.pdb
+C:\Users\Rameshwar kale\Constructor_types\para_constractor\obj\Debug\netcoreapp3.1\para_constractor.genruntimeconfig.cache

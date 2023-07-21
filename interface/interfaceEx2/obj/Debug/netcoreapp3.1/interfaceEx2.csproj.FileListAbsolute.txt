@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\interface\interfaceEx2\obj\Debug\netcoreapp3.1\interfaceEx2.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\interface\interfaceEx2\obj\Debug\netcoreapp3.1\interfaceEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\interface\interfaceEx2\obj\Debug\netcoreapp3.1\interfaceEx2.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\interface\interfaceEx2\obj\Debug\netcoreapp3.1\interfaceEx2.AssemblyInfo.cs
+C:\Users\Rameshwar kale\interface\interfaceEx2\obj\Debug\netcoreapp3.1\interfaceEx2.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\interface\interfaceEx2\bin\Debug\netcoreapp3.1\interfaceEx2.exe
+C:\Users\Rameshwar kale\interface\interfaceEx2\bin\Debug\netcoreapp3.1\interfaceEx2.deps.json
+C:\Users\Rameshwar kale\interface\interfaceEx2\bin\Debug\netcoreapp3.1\interfaceEx2.runtimeconfig.json
+C:\Users\Rameshwar kale\interface\interfaceEx2\bin\Debug\netcoreapp3.1\interfaceEx2.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\interface\interfaceEx2\bin\Debug\netcoreapp3.1\interfaceEx2.dll
+C:\Users\Rameshwar kale\interface\interfaceEx2\bin\Debug\netcoreapp3.1\interfaceEx2.pdb
+C:\Users\Rameshwar kale\interface\interfaceEx2\obj\Debug\netcoreapp3.1\interfaceEx2.dll
+C:\Users\Rameshwar kale\interface\interfaceEx2\obj\Debug\netcoreapp3.1\interfaceEx2.pdb
+C:\Users\Rameshwar kale\interface\interfaceEx2\obj\Debug\netcoreapp3.1\interfaceEx2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\bin\Debug\netcoreapp3.1\Constructor_copy.exe
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\bin\Debug\netcoreapp3.1\Constructor_copy.deps.json
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\bin\Debug\netcoreapp3.1\Constructor_copy.runtimeconfig.json
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\bin\Debug\netcoreapp3.1\Constructor_copy.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\bin\Debug\netcoreapp3.1\Constructor_copy.dll
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\bin\Debug\netcoreapp3.1\Constructor_copy.pdb
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\obj\Debug\netcoreapp3.1\Constructor_copy.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\obj\Debug\netcoreapp3.1\Constructor_copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\obj\Debug\netcoreapp3.1\Constructor_copy.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\obj\Debug\netcoreapp3.1\Constructor_copy.AssemblyInfo.cs
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\obj\Debug\netcoreapp3.1\Constructor_copy.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\obj\Debug\netcoreapp3.1\Constructor_copy.dll
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\obj\Debug\netcoreapp3.1\Constructor_copy.pdb
+C:\Users\Rameshwar kale\Constructor_types\Constructor_copy\obj\Debug\netcoreapp3.1\Constructor_copy.genruntimeconfig.cache

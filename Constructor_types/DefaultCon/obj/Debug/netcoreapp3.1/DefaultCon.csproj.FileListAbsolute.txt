@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\bin\Debug\netcoreapp3.1\DefaultCon.exe
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\bin\Debug\netcoreapp3.1\DefaultCon.deps.json
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\bin\Debug\netcoreapp3.1\DefaultCon.runtimeconfig.json
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\bin\Debug\netcoreapp3.1\DefaultCon.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\bin\Debug\netcoreapp3.1\DefaultCon.dll
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\bin\Debug\netcoreapp3.1\DefaultCon.pdb
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\obj\Debug\netcoreapp3.1\DefaultCon.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\obj\Debug\netcoreapp3.1\DefaultCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\obj\Debug\netcoreapp3.1\DefaultCon.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\obj\Debug\netcoreapp3.1\DefaultCon.AssemblyInfo.cs
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\obj\Debug\netcoreapp3.1\DefaultCon.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\obj\Debug\netcoreapp3.1\DefaultCon.dll
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\obj\Debug\netcoreapp3.1\DefaultCon.pdb
+C:\Users\Rameshwar kale\Constructor_types\DefaultCon\obj\Debug\netcoreapp3.1\DefaultCon.genruntimeconfig.cache
